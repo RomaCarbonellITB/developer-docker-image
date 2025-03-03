@@ -24,3 +24,6 @@ This repository contains a Dockerfile to build a Docker image for a development 
 
 ## NOTES
 - The VNC password is @ITB2025.
+
+## Docker Images on Docker Hub
+- [Developer Docker Image](https://hub.docker.com/repository/docker/carbu/developer-env/)
